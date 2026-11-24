@@ -19,14 +19,13 @@
 
 ```text
 user      : netromacer
-role      : cyber security | offensive security enthusiast
 focus     : pentesting, offsec, security research
 status    : learning, building, breaking (in labs, with permission)
 this repo : projects + fun
 ```
 
 - 🔴 Into **offensive security** and **penetration testing**
-- 🛡️ Interested in the wider **cyber security** picture, from defence to analysis
+- 🛡️ Interested in **cyber-security** in general
 - 🧪 Building and documenting projects as I learn
 - 🎮 Here for the fun too: CTFs, labs, home-lab experiments and odd side projects
 
@@ -40,8 +39,8 @@ this repo : projects + fun
 | 🖧 | **Network pentesting** | Recon, enumeration, service exploitation, pivoting |
 | 🐧 | **Privilege escalation** | Linux and Windows privesc, misconfigurations |
 | 🔍 | **Recon & OSINT** | Mapping attack surface before touching anything |
-| 🧬 | **Malware & RE** | Static analysis, reading what malware actually does |
-| 🔐 | **Cryptography** | How it works, and how it gets broken |
+| 🛜 | **Wireless pentesting** | WiFi, Wireless Scanning |
+| 🗂️ | **Active Directory** | Active Directory, AD Management |
 
 ---
 
@@ -57,7 +56,6 @@ this repo : projects + fun
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logoColor=00ff41)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
 
 </div>
@@ -66,11 +64,9 @@ this repo : projects + fun
 
 ## `$ ls ~/projects`
 
-> Replace the placeholders below with your real repos as you publish them.
-
 | Project | What it does | Stack |
 |---|---|---|
-| 🛠️ [**project-one**](https://github.com/netromacer/project-one) | Short description, e.g. a recon automation script | `Python` `Bash` |
+| 📶 [**ReconDeck**](https://github.com/netromacer/project-one) | Portable WiFi scanner/cracker that runs Kali Cli with Aircrack-ng. |
 | 🧪 [**project-two**](https://github.com/netromacer/project-two) | Short description, e.g. a vulnerable lab you built | `Docker` `Linux` |
 | 📄 [**project-three**](https://github.com/netromacer/project-three) | Short description, e.g. a malware analysis write-up | `Ghidra` `Markdown` |
 
@@ -101,19 +97,6 @@ this repo : projects + fun
 
 ---
 
-## `$ git log --stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=netromacer&show_icons=true&theme=dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_rank=false" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netromacer&layout=compact&theme=dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=netromacer&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak" />
-
-</div>
-
----
-
 ## `$ ./contact`
 
 <div align="center">
@@ -124,7 +107,7 @@ this repo : projects + fun
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:you@example.com)
 -->
 
-<sub>⚠️ Everything here is for learning and authorised testing only. Hack legally, hack ethically.</sub>
+<sub>⚠️ Everything here is for learning and authorised testing only. I am hacking ethically and legally. I don't want to go to jail man 💀.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%" alt="footer" />
 
