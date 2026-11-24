@@ -1,27 +1,30 @@
 <!-- Save this as README.md in a PUBLIC repo named exactly: netromacer/netromacer -->
+<!-- Palette (Scarlet Protocol style): bg #101116 | scarlet #ff2a44 | cyan #00f0ff | text #c5c8c6 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=netromacer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%7C%20Pentesting%20%7C%20Cyber%20Security&descAlignY=58&descSize=18" width="100%" alt="netromacer banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101116,50:ff2a44,100:101116&height=210&section=header&text=NETROMACER&fontSize=68&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=//%20OFFENSIVE%20SECURITY%20%20%C2%B7%20%20PENTESTING%20%20%C2%B7%20%20CYBER%20SECURITY&descAlignY=65&descSize=16" width="100%" alt="netromacer banner" />
 
 <a href="https://github.com/netromacer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=root%40netromacer%3A~%23+whoami;offsec+%7C+pentesting+%7C+cyber+security;breaking+things+(legally)+to+make+them+safer;always+learning%2C+always+tinkering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=FF2A44&background=10111600&center=true&vCenter=true&width=700&lines=%3E+NEURAL+LINK+ESTABLISHED...;%3E+root%40netromacer%3A~%23+whoami;%3E+offsec+%7C+pentesting+%7C+cyber+security;%3E+breaking+things+(legally)+to+make+them+safer;%3E+jacking+in.+stay+sharp." alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=netromacer&label=Visitors&color=00ff41&style=flat-square)
-![Followers](https://img.shields.io/github/followers/netromacer?style=flat-square&color=00ff41&labelColor=0d1117)
+![Visitors](https://komarev.com/ghpvc/?username=netromacer&label=NODES+CONNECTED&color=ff2a44&style=for-the-badge&labelColor=101116)
+![Followers](https://img.shields.io/github/followers/netromacer?style=for-the-badge&color=00f0ff&labelColor=101116&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## `$ cat about.txt`
+## ▓▒░ `SYS.BOOT`
 
 ```text
-user      : netromacer
-focus     : pentesting, offsec, security research
-status    : learning, building, breaking (in labs, with permission)
-this repo : projects + fun
+[ OK ] kernel........... loaded
+[ OK ] handle........... netromacer
+[ OK ] focus............ pentesting / offsec / security research
+[ OK ] mode............. learning, building, breaking (labs only, with permission)
+[ OK ] this_repo........ projects + fun
+[WARN] ice.............. fully respected. no unauthorised intrusions.
 ```
 
 - 🔴 Into **offensive security** and **penetration testing**
@@ -31,7 +34,7 @@ this repo : projects + fun
 
 ---
 
-## `$ ls ~/focus-areas`
+## ▓▒░ `ATTACK.SURFACE // focus-areas`
 
 | | Area | What I'm into |
 |---|---|---|
@@ -39,34 +42,35 @@ this repo : projects + fun
 | 🖧 | **Network pentesting** | Recon, enumeration, service exploitation, pivoting |
 | 🐧 | **Privilege escalation** | Linux and Windows privesc, misconfigurations |
 | 🔍 | **Recon & OSINT** | Mapping attack surface before touching anything |
-| 🛜 | **Wireless pentesting** | WiFi, Wireless Scanning |
-| 🗂️ | **Active Directory** | Active Directory, AD Management |
+| 🛜 | **Wireless pentesting** | WiFi, wireless scanning |
+| 🗂️ | **Active Directory** | Active Directory, AD management |
 
 ---
 
-## `$ ./toolkit --list`
+## ▓▒░ `LOADOUT // toolkit`
 
 <div align="center">
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00ff41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
+![Kali](https://img.shields.io/badge/Kali_Linux-101116?style=for-the-badge&logo=kalilinux&logoColor=ff2a44&labelColor=101116)
+![Linux](https://img.shields.io/badge/Linux-101116?style=for-the-badge&logo=linux&logoColor=ff2a44)
+![Bash](https://img.shields.io/badge/Bash-101116?style=for-the-badge&logo=gnubash&logoColor=00f0ff)
+![Python](https://img.shields.io/badge/Python-101116?style=for-the-badge&logo=python&logoColor=00f0ff)
+![Nmap](https://img.shields.io/badge/Nmap-101116?style=for-the-badge&logoColor=ff2a44)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-101116?style=for-the-badge&logo=portswigger&logoColor=ff2a44)
+![Metasploit](https://img.shields.io/badge/Metasploit-101116?style=for-the-badge&logoColor=00f0ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-101116?style=for-the-badge&logo=wireshark&logoColor=00f0ff)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-101116?style=for-the-badge&logoColor=ff2a44)
+![Git](https://img.shields.io/badge/Git-101116?style=for-the-badge&logo=git&logoColor=00f0ff)
 
 </div>
 
 ---
 
-## `$ ls ~/projects`
+## ▓▒░ `PAYLOADS // projects`
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📶 [**ReconDeck**](https://github.com/netromacer/project-one) | Portable WiFi scanner/cracker that runs Kali Cli with Aircrack-ng. |
+| 📶 [**ReconDeck**](https://github.com/netromacer/ReconDeck) | Portable WiFi scanner/cracker that runs Kali CLI with Aircrack-ng | `Kali` `Aircrack-ng` `Bash` |
 | 🧪 [**project-two**](https://github.com/netromacer/project-two) | Short description, e.g. a vulnerable lab you built | `Docker` `Linux` |
 | 📄 [**project-three**](https://github.com/netromacer/project-three) | Short description, e.g. a malware analysis write-up | `Ghidra` `Markdown` |
 
@@ -75,13 +79,13 @@ this repo : projects + fun
 
 <br>
 
-[![project-one](https://github-readme-stats.vercel.app/api/pin/?username=netromacer&repo=project-one&theme=dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/netromacer/project-one)
+[![ReconDeck](https://github-readme-stats.vercel.app/api/pin/?username=netromacer&repo=ReconDeck&theme=dark&bg_color=101116&border_color=ff2a44&title_color=ff2a44&icon_color=00f0ff&text_color=c5c8c6)](https://github.com/netromacer/ReconDeck)
 
 </details>
 
 ---
 
-## `$ ls ~/fun`
+## ▓▒░ `ARCADE // fun`
 
 - 🏴 **CTFs**: playing and writing up challenges
 - 🖥️ **Home lab**: vulnerable VMs, networks and break-it-then-fix-it experiments
@@ -90,25 +94,38 @@ this repo : projects + fun
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-netromacer-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-netromacer-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-netromacer-101116?style=for-the-badge&logo=tryhackme&logoColor=ff2a44)](https://tryhackme.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-netromacer-101116?style=for-the-badge&logo=hackthebox&logoColor=00f0ff)](https://app.hackthebox.com/)
 
 </div>
 
 ---
 
-## `$ ./contact`
+## ▓▒░ `TELEMETRY // stats`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-netromacer-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/netromacer)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=netromacer&show_icons=true&theme=dark&bg_color=101116&border_color=ff2a44&title_color=ff2a44&icon_color=00f0ff&text_color=c5c8c6" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netromacer&layout=compact&theme=dark&bg_color=101116&border_color=ff2a44&title_color=ff2a44&text_color=c5c8c6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=netromacer&theme=dark&background=101116&border=ff2a44&ring=ff2a44&fire=00f0ff&currStreakNum=c5c8c6&sideNums=c5c8c6&currStreakLabel=ff2a44&sideLabels=00f0ff&dates=c5c8c6" alt="Streak" />
+
+</div>
+
+---
+
+## ▓▒░ `COMMS // contact`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-netromacer-101116?style=for-the-badge&logo=github&logoColor=ff2a44)](https://github.com/netromacer)
 <!-- Add whichever you use:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101116?style=for-the-badge&logo=linkedin&logoColor=ff2a44)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-101116?style=for-the-badge&logo=gmail&logoColor=00f0ff)](mailto:you@example.com)
 -->
 
 <sub>⚠️ Everything here is for learning and authorised testing only. I am hacking ethically and legally. I don't want to go to jail man 💀.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101116,50:ff2a44,100:101116&height=90&section=footer" width="100%" alt="footer" />
 
 </div>
