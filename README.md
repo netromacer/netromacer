@@ -1,14 +1,131 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsmith-2005&label=Profile%20views&color=0e75b6&style=flat" alt="dsmith-2005" /> </p>
+<!-- Save this as README.md in a PUBLIC repo named exactly: netromacer/netromacer -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsmith-2005" alt="dsmith-2005" /></a> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=netromacer&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%7C%20Pentesting%20%7C%20Cyber%20Security&descAlignY=58&descSize=18" width="100%" alt="netromacer banner" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://github.com/netromacer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=640&lines=root%40netromacer%3A~%23+whoami;offsec+%7C+pentesting+%7C+cyber+security;breaking+things+(legally)+to+make+them+safer;always+learning%2C+always+tinkering" alt="Typing SVG" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsmith-2005&show_icons=true&locale=en&layout=compact" alt="dsmith-2005" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=netromacer&label=Visitors&color=00ff41&style=flat-square)
+![Followers](https://img.shields.io/github/followers/netromacer?style=flat-square&color=00ff41&labelColor=0d1117)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsmith-2005&show_icons=true&locale=en" alt="dsmith-2005" /></p>
+</div>
+
+---
+
+## `$ cat about.txt`
+
+```text
+user      : netromacer
+role      : cyber security | offensive security enthusiast
+focus     : pentesting, offsec, security research
+status    : learning, building, breaking (in labs, with permission)
+this repo : projects + fun
+```
+
+- 🔴 Into **offensive security** and **penetration testing**
+- 🛡️ Interested in the wider **cyber security** picture, from defence to analysis
+- 🧪 Building and documenting projects as I learn
+- 🎮 Here for the fun too: CTFs, labs, home-lab experiments and odd side projects
+
+---
+
+## `$ ls ~/focus-areas`
+
+| | Area | What I'm into |
+|---|---|---|
+| 🌐 | **Web app security** | OWASP Top 10, auth bugs, injection, access control |
+| 🖧 | **Network pentesting** | Recon, enumeration, service exploitation, pivoting |
+| 🐧 | **Privilege escalation** | Linux and Windows privesc, misconfigurations |
+| 🔍 | **Recon & OSINT** | Mapping attack surface before touching anything |
+| 🧬 | **Malware & RE** | Static analysis, reading what malware actually does |
+| 🔐 | **Cryptography** | How it works, and how it gets broken |
+
+---
+
+## `$ ./toolkit --list`
+
+<div align="center">
+
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41)
+
+</div>
+
+---
+
+## `$ ls ~/projects`
+
+> Replace the placeholders below with your real repos as you publish them.
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🛠️ [**project-one**](https://github.com/netromacer/project-one) | Short description, e.g. a recon automation script | `Python` `Bash` |
+| 🧪 [**project-two**](https://github.com/netromacer/project-two) | Short description, e.g. a vulnerable lab you built | `Docker` `Linux` |
+| 📄 [**project-three**](https://github.com/netromacer/project-three) | Short description, e.g. a malware analysis write-up | `Ghidra` `Markdown` |
+
+<details>
+<summary><b>📌 Pinned repo cards (optional)</b></summary>
+
+<br>
+
+[![project-one](https://github-readme-stats.vercel.app/api/pin/?username=netromacer&repo=project-one&theme=dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41)](https://github.com/netromacer/project-one)
+
+</details>
+
+---
+
+## `$ ls ~/fun`
+
+- 🏴 **CTFs**: playing and writing up challenges
+- 🖥️ **Home lab**: vulnerable VMs, networks and break-it-then-fix-it experiments
+- 📝 **Write-ups**: notes on labs and machines I've worked through
+- 🎯 **Platforms**: [Hack The Box](https://app.hackthebox.com/) · [TryHackMe](https://tryhackme.com/) · [PortSwigger Academy](https://portswigger.net/web-security)
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-netromacer-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-netromacer-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/)
+
+</div>
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=netromacer&show_icons=true&theme=dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&hide_rank=false" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netromacer&layout=compact&theme=dark&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=c9d1d9" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=netromacer&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Streak" />
+
+</div>
+
+---
+
+## `$ ./contact`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-netromacer-0d1117?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/netromacer)
+<!-- Add whichever you use:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:you@example.com)
+-->
+
+<sub>⚠️ Everything here is for learning and authorised testing only. Hack legally, hack ethically.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
