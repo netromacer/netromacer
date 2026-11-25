@@ -78,18 +78,8 @@
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| 📶 [**ReconDeck**](https://github.com/netromacer/ReconDeck) | Portable WiFi scanner/cracker that runs Kali CLI with Aircrack-ng | `Kali` `Aircrack-ng` `Bash` | ![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=flat-square&labelColor=000807) |
-| 🧪 **NEXT PROJECT** | Something is compiling... a new tool, lab or write-up lands here | `???` | ![PENDING](https://img.shields.io/badge/STATUS-PENDING-b700ff?style=flat-square&labelColor=000807) |
-| 📄 **NEXT PROJECT** | Something is compiling... a new tool, lab or write-up lands here | `???` | ![NO ACCESS](https://img.shields.io/badge/STATUS-NO_ACCESS-b700ff?style=flat-square&labelColor=000807) |
-
-<details>
-<summary><b>📌 Pinned repo cards (optional)</b></summary>
-
-<br>
-
-[![ReconDeck](https://github-readme-stats.vercel.app/api/pin/?username=netromacer&repo=ReconDeck&theme=dark&bg_color=000807&border_color=ff0059&title_color=ff3270&icon_color=00c3ff&text_color=eeffff)](https://github.com/netromacer/ReconDeck)
-
-</details>
+| ⌨️ [**Python_Keylogger**](https://github.com/netromacer/Python_Keylogger) | Simple Keylogger made in Python | `Python` | ![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=flat-square&labelColor=000807) |
+| 📶 [**ReconDeck**](https://github.com/netromacer/ReconDeck) | Portable WiFi scanner/cracker that runs Kali CLI with Aircrack-ng | `Kali` `Aircrack-ng` `Bash` | ![PENDING](https://img.shields.io/badge/STATUS-PENDING-b700ff?style=flat-square&labelColor=000807) |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
@@ -116,14 +106,11 @@
 [![GitHub](https://img.shields.io/badge/GITHUB-NETROMACER-ff0059?style=for-the-badge&logo=github&logoColor=white&labelColor=000807)](https://github.com/netromacer)
 [![All repos](https://img.shields.io/badge/ALL_REPOS-OPEN-0a7a55?style=for-the-badge&logoColor=white&labelColor=000807)](https://github.com/netromacer?tab=repositories)
 <!-- Add whichever you use:
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0c5f74?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000807)](https://linkedin.com/in/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/EMAIL-SEND-0c5f74?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000807)](mailto:you@example.com)
 -->
 
 <br>
 
 <sub>⚠️ Everything here is for learning and authorised testing only. I am hacking ethically and legally. I don't want to go to jail man 💀.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:6b0a26,100:000807&height=110&section=footer&text=%2F%2F%20END%20OF%20TRANSMISSION&fontSize=20&fontColor=ff3270&fontAlignY=65&animation=twinkling" width="100%" alt="end of transmission" />
 
 </div>
