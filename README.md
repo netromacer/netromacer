@@ -20,16 +20,15 @@
 
 ---
 
-## ▓▒░ `ABOUT // whoami`
+## ▓▒░ `whoami`
 
 ```text
-┌─[ netromacer@offsec ]────────────────────────────────────┐
+┌─[ netromacer@github ]────────────────────────────────────┐
 │ ROLE    : offensive security enthusiast                  │
 │ FOCUS   : pentesting · offsec · cyber security           │
 │ TOOLS   : kali · nmap · burp · aircrack-ng · python      │
 │ MODE    : learning, building, breaking (labs only)       │
 │ REPO    : projects + fun                                 │
-│ ICE     : respected. no unauthorised intrusions.         │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -53,7 +52,7 @@
 
 ---
 
-## ▓▒░ `TOOLKIT // loadout`
+## ▓▒░ `cat toolkit.txt`
 
 <div align="center">
 
@@ -72,7 +71,7 @@
 
 ---
 
-## ▓▒░ `PROJECTS // payloads`
+## ▓▒░ `less projects.txt`
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -91,7 +90,7 @@
 
 ---
 
-## ▓▒░ `FUN // arcade`
+## ▓▒░ `f`
 
 - 🏴 **CTFs**: playing and writing up challenges
 - 🖥️ **Home lab**: vulnerable VMs, networks and break-it-then-fix-it experiments
@@ -101,26 +100,13 @@
 <div align="center">
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-netromacer-0b0508?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b&labelColor=0b0508)](https://tryhackme.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-netromacer-0b0508?style=for-the-badge&logo=hackthebox&logoColor=5ef6ff&labelColor=0b0508)](https://app.hackthebox.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-netromacer-0b0508?style=for-the-badge&logo=hackthebox&logoColor=5ef6ff&labelColor=0b0508)](https://profile.hackthebox.com/profile/019d3892-e4cc-704a-8068-39a5fa70fc5f?utm_medium=copy_url)
 
 </div>
 
 ---
 
-## ▓▒░ `STATS // telemetry`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=netromacer&show_icons=true&theme=dark&bg_color=0b0508&border_color=ff3b3b&title_color=ff3b3b&icon_color=5ef6ff&text_color=c5c8c6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netromacer&layout=compact&theme=dark&bg_color=0b0508&border_color=ff3b3b&title_color=ff3b3b&text_color=c5c8c6" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=netromacer&theme=dark&background=0b0508&border=ff3b3b&ring=ff3b3b&fire=5ef6ff&currStreakNum=c5c8c6&sideNums=c5c8c6&currStreakLabel=ff3b3b&sideLabels=5ef6ff&dates=c5c8c6" alt="Streak" />
-
-</div>
-
----
-
-## ▓▒░ `CONTACT // comms`
+## ▓▒░ `talk netromacer`
 
 <div align="center">
 
