@@ -42,7 +42,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=ls -l /skills&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="ls -l /skills" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=ls%20-l%20/skills&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="ls -l /skills" />
 
 | | Area | What I'm into |
 |---|---|---|
