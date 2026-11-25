@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,55:6b0a26,100:000807&height=220&section=header&text=NETROMACER&fontSize=72&fontColor=00c3ff&fontAlignY=40&animation=fadeIn&desc=%5B%20NETRUNNER%20%2F%2F%20OFFENSIVE%20SECURITY%20%2F%2F%20PENTESTING%20%5D&descAlignY=66&descSize=16&descColor=ff3270" width="100%" alt="NETROMACER banner" />
 
 <a href="https://github.com/netromacer">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=FF3270&background=00080700&center=true&vCenter=true&width=720&lines=%3E+LINKING+TO+NETWORK...;%3E+ACCESS+GRANTED%3A+netromacer;%3E+offsec+%7C+pentesting+%7C+cyber+security;%3E+breaking+things+(legally)+to+make+them+safer;%3E+stay+sharp%2C+choom." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=FF3270&background=00080700&center=true&vCenter=true&width=720&lines=%3E+LINKING+TO+NETWORK...;%3E+ACCESS+GRANTED%3A+netromacer;%3E+offsec+%7C+pentesting+%7C+cyber+security;%3E+I+just+learn+things+and+break+them+for+the+fun+of+it.+:);%3E+stay+sharp%2C+choom." alt="Typing SVG" />
 </a>
 
 ![Visitors](https://komarev.com/ghpvc/?username=netromacer&label=NODES+CONNECTED&color=ff0059&style=for-the-badge&labelColor=000807)
