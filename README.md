@@ -83,7 +83,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=fun&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="fun" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=find+/+-exec+'fun'&fontSize=30&fontColor=00c3ff&fontAlignY=50&animation=twinkling" width="100%" alt="fun" />
 
 - 🏴 **CTFs**: playing and writing up challenges
 - 🖥️ **Home lab**: vulnerable VMs, networks and break-it-then-fix-it experiments
