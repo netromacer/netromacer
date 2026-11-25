@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0508,55:7a1018,100:0b0508&height=220&section=header&text=NETROMACER&fontSize=70&fontColor=ff3b3b&fontAlignY=40&animation=fadeIn&desc=%5B%20NETRUNNER%20%2F%2F%20OFFENSIVE%20SECURITY%20%2F%2F%20PENTESTING%20%5D&descAlignY=66&descSize=16&descColor=5ef6ff" width="100%" alt="netromacer banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0508,55:7a1018,100:0b0508&height=220&section=header&text=NETROMACER&fontSize=70&fontColor=5ef6ff&fontAlignY=40&animation=fadeIn&desc=%5B%20NETRUNNER%20%2F%2F%20OFFENSIVE%20SECURITY%20%2F%2F%20PENTESTING%20%5D&descAlignY=66&descSize=16&descColor=5ef6ff" width="100%" alt="netromacer banner" />
 
 <a href="https://github.com/netromacer">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=FF3B3B&background=0B050800&center=true&vCenter=true&width=720&lines=%3E+LINKING+TO+NETWORK...;%3E+ACCESS+GRANTED%3A+netromacer;%3E+offsec+%7C+pentesting+%7C+cyber+security;%3E+breaking+things+(legally)+to+make+them+safer;%3E+stay+sharp%2C+choom." alt="Typing SVG" />
