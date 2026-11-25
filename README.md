@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,55:6b0a26,100:000807&height=220&section=header&text=NETROMACER&fontSize=72&fontColor=00c3ff&fontAlignY=40&animation=fadeIn&desc=%5B%20NETRUNNER%20%2F%2F%20OFFENSIVE%20SECURITY%20%2F%2F%20PENTESTING%20%5D&descAlignY=66&descSize=16&descColor=ff3270" width="100%" alt="NETROMACER banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,55:6b0a26,100:000807&height=220&section=header&text=NETROMACER&fontSize=72&fontColor=00c3ff&fontAlignY=40&animation=fadeIn&desc=%5B%20LEARNING%20%2F%2F%20OFFENSIVE%20SECURITY%20%2F%2F%20PENTESTING%20%5D&descAlignY=66&descSize=16&descColor=ff3270" width="100%" alt="NETROMACER banner" />
 
 <a href="https://github.com/netromacer">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=FF3270&background=00080700&center=true&vCenter=true&width=720&lines=%3E+LINKING+TO+GITHUB..;%3E+ACCESS+GRANTED%3A+netromacer;%3E+Offensive+Security+%7C+Pentesting+%7C+Cyber-Security;%3E+I+just+learn+things+and+break+them+for+the+fun+of+it.+:)" alt="Typing SVG" />
