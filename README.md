@@ -23,7 +23,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=whoami&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="whoami" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=whoami&fontSize=30&fontColor=00c3ff&fontAlignY=50&animation=twinkling" width="100%" alt="whoami" />
 
 ```text
 ┌─[ netromacer@github ]────────────────────────────────────┐
@@ -42,7 +42,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=ls%20-l%20/skills&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="ls -l /skills" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=ls%20-l%20/skills&fontSize=30&fontColor=00c3ff&fontAlignY=50&animation=twinkling" width="100%" alt="ls -l /skills" />
 
 | | Area | What I'm into |
 |---|---|---|
@@ -55,7 +55,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=cat%20toolkit.txt&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="cat toolkit.txt" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=cat%20toolkit.txt&fontSize=30&fontColor=00c3ff&fontAlignY=50&animation=twinkling" width="100%" alt="cat toolkit.txt" />
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=less%20projects.txt&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="less projects.txt" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=less%20projects.txt&fontSize=30&fontColor=00c3ff&fontAlignY=50&animation=twinkling" width="100%" alt="less projects.txt" />
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
@@ -99,7 +99,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=talk%20netromacer&fontSize=30&fontColor=ff3270&fontAlignY=50&animation=twinkling" width="100%" alt="talk netromacer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:4a0818,100:000807&height=70&section=header&text=talk%20netromacer&fontSize=30&fontColor=00c3ff&fontAlignY=50&animation=twinkling" width="100%" alt="talk netromacer" />
 
 <div align="center">
 
