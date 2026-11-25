@@ -1,8 +1,3 @@
-<!--
-  Save this as README.md in a PUBLIC repo named exactly: netromacer/netromacer
-  That's it: no other files needed. All images load from online services (capsule-render, shields.io, readme-typing-svg).
-  Palette (Cyberpunk SCARLET): bg #000807 | scarlet #ff3270 | red #ff0059 | cyan #00c3ff | bright cyan #89ddff | green #00ff9c | purple #b700ff
--->
 
 <div align="center">
 
@@ -17,9 +12,6 @@
 
 </div>
 
-<!-- Optional: drop your own artwork (logo, mask, anything) into the repo and uncomment:
-<p align="center"><img src="./logo.png" width="220" alt="logo" /></p>
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
 
@@ -104,10 +96,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-NETROMACER-ff0059?style=for-the-badge&logo=github&logoColor=white&labelColor=000807)](https://github.com/netromacer)
-[![All repos](https://img.shields.io/badge/ALL_REPOS-OPEN-0a7a55?style=for-the-badge&logoColor=white&labelColor=000807)](https://github.com/netromacer?tab=repositories)
-<!-- Add whichever you use:
-[![Email](https://img.shields.io/badge/EMAIL-SEND-0c5f74?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000807)](mailto:you@example.com)
--->
 
 <br>
 
