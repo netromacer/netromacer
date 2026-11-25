@@ -1,14 +1,7 @@
 <!-- Save this as README.md in a PUBLIC repo named exactly: netromacer/netromacer -->
-<!-- Palette (Cyberpunk menu UI): bg #0b0508 | scarlet #ff3b3b | dim red #7a1018 | cyan #5ef6ff | street-cred green #5fdc6f | text #c5c8c6 -->
+<!-- Palette: bg #0b0508 | scarlet #ff3b3b | dim red #7a1018 | cyan #5ef6ff | text #c5c8c6 -->
 
-<a name="top"></a>
 <div align="center">
-
-<!-- HUD top bar -->
-![LEVEL](https://img.shields.io/badge/LEVEL-01-5ef6ff?style=flat-square&labelColor=0b0508)
-![STREET CRED](https://img.shields.io/github/followers/netromacer?style=flat-square&label=STREET%20CRED&labelColor=0b0508&color=5fdc6f)
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-ff3b3b?style=flat-square&labelColor=0b0508)
-![NODES](https://komarev.com/ghpvc/?username=netromacer&label=NODES+CONNECTED&color=7a1018&style=flat-square&labelColor=0b0508)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0508,55:7a1018,100:0b0508&height=220&section=header&text=NETROMACER&fontSize=70&fontColor=ff3b3b&fontAlignY=40&animation=fadeIn&desc=%5B%20NETRUNNER%20%2F%2F%20OFFENSIVE%20SECURITY%20%2F%2F%20PENTESTING%20%5D&descAlignY=66&descSize=16&descColor=5ef6ff" width="100%" alt="netromacer banner" />
 
@@ -16,25 +9,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&pause=1000&color=FF3B3B&background=0B050800&center=true&vCenter=true&width=720&lines=%3E+LINKING+TO+NETWORK...;%3E+ACCESS+GRANTED%3A+netromacer;%3E+offsec+%7C+pentesting+%7C+cyber+security;%3E+breaking+things+(legally)+to+make+them+safer;%3E+stay+sharp%2C+choom." alt="Typing SVG" />
 </a>
 
-<br><br>
-
-<!-- Menu tabs -->
-[![CRAFTING](https://img.shields.io/badge/CRAFTING-0b0508?style=for-the-badge&labelColor=0b0508&color=7a1018)](#crafting)
-[![INVENTORY](https://img.shields.io/badge/INVENTORY-0b0508?style=for-the-badge&labelColor=0b0508&color=7a1018)](#inventory)
-[![MAP](https://img.shields.io/badge/MAP-0b0508?style=for-the-badge&labelColor=0b0508&color=7a1018)](#map)
-[![CHARACTER](https://img.shields.io/badge/CHARACTER-0b0508?style=for-the-badge&labelColor=0b0508&color=5ef6ff)](#character)
-[![JOURNAL](https://img.shields.io/badge/JOURNAL-0b0508?style=for-the-badge&labelColor=0b0508&color=7a1018)](#journal)
-
-<br>
-
-<!-- Character cards. Edit the percentages so they match how you honestly feel about each area. -->
-<table>
-  <tr>
-    <td align="center" width="220"><br><b>🌐 WEB APP SEC</b><br><br><code>▰▰▰▰▰▱▱▱▱▱</code><br><sub><b>50%</b></sub><br><br></td>
-    <td align="center" width="220"><br><b>🖧 NETWORK</b><br><br><code>▰▰▰▰▰▰▱▱▱▱</code><br><sub><b>60%</b></sub><br><br></td>
-    <td align="center" width="220"><br><b>🛜 WIRELESS</b><br><br><code>▰▰▰▰▰▰▰▱▱▱</code><br><sub><b>70%</b></sub><br><br></td>
-  </tr>
-</table>
+![Visitors](https://komarev.com/ghpvc/?username=netromacer&label=NODES+CONNECTED&color=ff3b3b&style=for-the-badge&labelColor=0b0508)
+![Followers](https://img.shields.io/github/followers/netromacer?style=for-the-badge&color=5ef6ff&labelColor=0b0508&label=FOLLOWERS)
 
 </div>
 
@@ -44,8 +20,7 @@
 
 ---
 
-<a name="character"></a>
-## ▓▒░ `CHARACTER // about`
+## ▓▒░ `ABOUT // whoami`
 
 ```text
 ┌─[ netromacer@offsec ]────────────────────────────────────┐
@@ -63,18 +38,9 @@
 - 🧪 Building and documenting projects as I learn
 - 🎮 Here for the fun too: CTFs, labs, home-lab experiments and odd side projects
 
-```text
-ﾊ ﾐ ﾋ ｰ ｳ ｼ ﾅ ﾓ ﾆ ｻ ﾜ ﾂ ｵ ﾘ ｱ ﾎ ﾃ ﾏ ｹ ﾒ ｴ ｶ ｷ ﾑ ﾕ ﾗ ｾ ﾈ ｽ ﾀ ﾇ ﾍ
- 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 0 1
-ｦ ｲ ｸ ｺ ｿ ﾁ ﾄ ﾉ ﾌ ﾔ ﾖ ﾙ ﾚ ﾛ ﾝ ｱ ｳ ｴ ｵ ｶ ｷ ｸ ｹ ｺ ｻ ｼ ｽ ｾ ｿ ﾀ
-```
-
-[⬆ back to top](#top)
-
 ---
 
-<a name="map"></a>
-## ▓▒░ `MAP // attack-surface`
+## ▓▒░ `FOCUS // attack-surface`
 
 | | Area | What I'm into |
 |---|---|---|
@@ -87,8 +53,7 @@
 
 ---
 
-<a name="inventory"></a>
-## ▓▒░ `INVENTORY // toolkit`
+## ▓▒░ `TOOLKIT // loadout`
 
 <div align="center">
 
@@ -107,8 +72,7 @@
 
 ---
 
-<a name="crafting"></a>
-## ▓▒░ `CRAFTING // projects`
+## ▓▒░ `PROJECTS // payloads`
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -127,8 +91,7 @@
 
 ---
 
-<a name="journal"></a>
-## ▓▒░ `JOURNAL // fun`
+## ▓▒░ `FUN // arcade`
 
 - 🏴 **CTFs**: playing and writing up challenges
 - 🖥️ **Home lab**: vulnerable VMs, networks and break-it-then-fix-it experiments
@@ -144,7 +107,7 @@
 
 ---
 
-## ▓▒░ `TELEMETRY // stats`
+## ▓▒░ `STATS // telemetry`
 
 <div align="center">
 
@@ -157,7 +120,7 @@
 
 ---
 
-## ▓▒░ `COMMS // contact`
+## ▓▒░ `CONTACT // comms`
 
 <div align="center">
 
@@ -166,12 +129,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0508?style=for-the-badge&logo=linkedin&logoColor=ff3b3b&labelColor=0b0508)](https://linkedin.com/in/YOUR-HANDLE)
 [![Email](https://img.shields.io/badge/Email-0b0508?style=for-the-badge&logo=gmail&logoColor=5ef6ff&labelColor=0b0508)](mailto:you@example.com)
 -->
-
-<br>
-
-<!-- Bottom bar -->
-[![SKIP TIME](https://img.shields.io/badge/%E2%8F%B1%20SKIP%20TIME-BACK%20TO%20TOP-0b0508?style=for-the-badge&labelColor=0b0508&color=5ef6ff)](#top)
-[![DATABASE](https://img.shields.io/badge/DATABASE-ALL%20REPOS-0b0508?style=for-the-badge&labelColor=0b0508&color=ff3b3b)](https://github.com/netromacer?tab=repositories)
 
 <br>
 
