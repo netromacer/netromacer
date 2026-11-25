@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" width="280" height="72" role="img" aria-label="HACKTHEBOX button">
+<title>HACKTHEBOX button</title>
+<defs>
+<filter id="glow" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g transform="translate(0,72)"><g>
+<animateTransform attributeName="transform" type="skewX" values="0;10;0;0" keyTimes="0;0.6;0.7;1" calcMode="discrete" dur="3s" repeatCount="indefinite"/>
+<g transform="translate(0,-72)">
+<polygon points="0,0 280,0 280,72 26,72 0,46" fill="#6a00a8"/>
+<rect x="277" y="0" width="3" height="72" fill="#00ff9c"/>
+<text x="140.0" y="44.0" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="24" font-weight="700" letter-spacing="2" fill="#ffffff" textLength="187" lengthAdjust="spacingAndGlyphs">HACKTHEBOX_</text>
+<g><rect x="194" y="58" width="40" height="15" fill="#000807"/><rect x="194" y="58" width="2" height="15" fill="#00ff9c"/><text x="202" y="69" font-family="Consolas,'Courier New','Liberation Mono',monospace" font-size="10" font-weight="700" fill="#eeffff">P-09</text></g>
+</g></g></g>
+</svg>

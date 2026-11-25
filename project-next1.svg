@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 154" width="900" height="154" role="img" aria-label="NEXT PROJECT - PENDING">
+<title>NEXT PROJECT - PENDING</title>
+<defs>
+<filter id="glow" x="-50%" y="-300%" width="200%" height="700%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<polygon points="0,16 16,0 900,0 900,114 884,130 0,130" fill="#000807" stroke="#b700ff" stroke-width="3" stroke-dasharray="9 6" transform="translate(0,2)"/>
+<text x="30" y="46" font-family="'Segoe UI','Helvetica Neue',Arial,'Liberation Sans',sans-serif" font-size="26" font-weight="800" fill="#b700ff" textLength="204" lengthAdjust="spacingAndGlyphs">NEXT PROJECT</text>
+<text x="30" y="76" font-family="Consolas,'Courier New','Liberation Mono',monospace" font-size="15" fill="#eeffff">Something is compiling...</text><text x="30" y="98" font-family="Consolas,'Courier New','Liberation Mono',monospace" font-size="15" fill="#eeffff">A new tool, lab or write-up lands here.</text>
+<rect x="30" y="104" width="42" height="17" fill="none" stroke="#b700ff" stroke-width="1"/><text x="39" y="117" font-family="Consolas,'Courier New','Liberation Mono',monospace" font-size="11" fill="#b700ff">???</text>
+<g transform="translate(700,70) rotate(-12)"><text x="0" y="0" text-anchor="middle" font-family="Consolas,'Courier New','Liberation Mono',monospace" font-size="46" font-weight="700" fill="#b700ff" fill-opacity="0.75" stroke="#b700ff" stroke-width="1">PENDING</text></g>
+<rect x="448" y="130" width="4" height="22" fill="#b700ff"/>
+</svg>
