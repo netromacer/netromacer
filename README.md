@@ -29,14 +29,14 @@
 
 ## cat toolkit.txt
   
-- Linux
-- Bash
-- Python
-- Nmap
-- Burp Suite
-- Metasploit
-- Wireshark
-- Aircrack-ng
+- 🐧 Linux
+- >_ Bash
+- 🐍 Python
+- 👁️ Nmap
+- 🌐 Burp Suite
+- Ⓜ️ Metasploit
+- 𓂁 Wireshark
+- 🛜 Aircrack-ng
 
 ## less projects.txt
 
