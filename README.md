@@ -4,7 +4,6 @@
 # NETROMACER
 
 ![Visitors](https://komarev.com/ghpvc/?username=netromacer&label=NODES+CONNECTED&color=ff0059&style=for-the-badge&labelColor=000807)
-![Followers](https://img.shields.io/github/followers/netromacer?style=for-the-badge&color=00c3ff&labelColor=000807&label=FOLLOWERS)
 
 </div>
 
@@ -35,11 +34,10 @@
 | 🛜 | **Wireless pentesting** | WiFi, wireless scanning |
 | 🗂️ | **Active Directory** | Active Directory, AD management |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000807,50:ff3270,100:000807&height=3&section=header" width="100%" alt="" />
-
 ## cat toolkit.txt
 <div align="center">
-
+## cat toolkit.txt
+  
 ![Kali](https://img.shields.io/badge/Kali_Linux-000807?style=for-the-badge&logo=kalilinux&logoColor=ff3270&labelColor=000807)
 ![Linux](https://img.shields.io/badge/Linux-000807?style=for-the-badge&logo=linux&logoColor=ff3270)
 ![Bash](https://img.shields.io/badge/Bash-000807?style=for-the-badge&logo=gnubash&logoColor=00c3ff)
