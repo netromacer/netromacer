@@ -30,7 +30,7 @@
 ## cat toolkit.txt
   
 - 🐧 Linux
-- >_ Bash
+- </> Bash
 - 🐍 Python
 - 👁️ Nmap
 - 🌐 Burp Suite
