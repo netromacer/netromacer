@@ -29,23 +29,21 @@
 
 ## cat toolkit.txt
   
-![Kali](https://img.shields.io/badge/Kali_Linux-000807?style=for-the-badge&logo=kalilinux&logoColor=ff3270&labelColor=000807)
-![Linux](https://img.shields.io/badge/Linux-000807?style=for-the-badge&logo=linux&logoColor=ff3270)
-![Bash](https://img.shields.io/badge/Bash-000807?style=for-the-badge&logo=gnubash&logoColor=00c3ff)
-![Python](https://img.shields.io/badge/Python-000807?style=for-the-badge&logo=python&logoColor=00c3ff)
-![Nmap](https://img.shields.io/badge/Nmap-000807?style=for-the-badge&logoColor=ff3270)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000807?style=for-the-badge&logo=portswigger&logoColor=ff3270)
-![Metasploit](https://img.shields.io/badge/Metasploit-000807?style=for-the-badge&logoColor=00c3ff)
-![Wireshark](https://img.shields.io/badge/Wireshark-000807?style=for-the-badge&logo=wireshark&logoColor=00c3ff)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000807?style=for-the-badge&logoColor=ff3270)
-![Git](https://img.shields.io/badge/Git-000807?style=for-the-badge&logo=git&logoColor=00c3ff)
+- Linux
+- Bash
+- Python
+- Nmap
+- Burp Suite
+- Metasploit
+- Wireshark
+- Aircrack-ng
 
 ## less projects.txt
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| ⌨️ [**Python_Keylogger**](https://github.com/netromacer/Python_Keylogger) | Simple Keylogger made in Python | `Python` | ![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=flat-square&labelColor=000807) |
-| 📶 [**ReconDeck**](https://github.com/netromacer/ReconDeck) | Portable WiFi scanner/cracker that runs Kali CLI with Aircrack-ng | `Kali` `Aircrack-ng` `Bash` | ![PENDING](https://img.shields.io/badge/STATUS-PENDING-b700ff?style=flat-square&labelColor=000807) |
+| ⌨️ [**Python_Keylogger**](https://github.com/netromacer/Python_Keylogger) | Simple Keylogger made in Python | `Python` | Completed |
+| 📶 [**ReconDeck**](https://github.com/netromacer/ReconDeck) | Portable WiFi scanner/cracker that runs Kali CLI with Aircrack-ng | `Kali` `Aircrack-ng` `Bash` | In progress |
 
 ## find / -exec fun
 
