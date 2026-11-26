@@ -1,4 +1,4 @@
-# NETROMACER
+# netromacer
 
 ## whoami
 ```text
