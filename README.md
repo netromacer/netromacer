@@ -1,11 +1,4 @@
-
-<div align="center">
-
 # NETROMACER
-
-![Visitors](https://komarev.com/ghpvc/?username=netromacer&label=NODES+CONNECTED&color=ff0059&style=for-the-badge&labelColor=000807)
-
-</div>
 
 ## whoami
 ```text
@@ -35,8 +28,6 @@
 | 🗂️ | **Active Directory** | Active Directory, AD management |
 
 ## cat toolkit.txt
-<div align="center">
-## cat toolkit.txt
   
 ![Kali](https://img.shields.io/badge/Kali_Linux-000807?style=for-the-badge&logo=kalilinux&logoColor=ff3270&labelColor=000807)
 ![Linux](https://img.shields.io/badge/Linux-000807?style=for-the-badge&logo=linux&logoColor=ff3270)
@@ -48,8 +39,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-000807?style=for-the-badge&logo=wireshark&logoColor=00c3ff)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000807?style=for-the-badge&logoColor=ff3270)
 ![Git](https://img.shields.io/badge/Git-000807?style=for-the-badge&logo=git&logoColor=00c3ff)
-
-</div>
 
 ## less projects.txt
 
